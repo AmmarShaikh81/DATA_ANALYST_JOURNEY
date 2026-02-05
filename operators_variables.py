@@ -1,4 +1,10 @@
 #declaring and initialising variables
+l=8
+m=2
+n=l%m
+o=l/m
+print(n)
+print(o)
 a=5
 d=6
 b3='ammar'
